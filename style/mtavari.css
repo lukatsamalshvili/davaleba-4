@@ -32,7 +32,9 @@ p{
     margin-top: 81px;
 }
 h1{
-    color: white;
+    color: #84FF81;
+
+    
     display: block;
     background: #5012D5;
     width: 50px;
@@ -69,7 +71,8 @@ h3{
     margin-left: 52px;
 }
 h4{
-   
+   width: 778px;
+   height: 363px;
    font-weight: 400;
     font-size: 16px;
     line-height: 19px;
@@ -87,7 +90,7 @@ h5{
 .class5{
     margin-left: 52px;
     margin-top: 167px;
-    color: white;
+    color: #84FF81;
     display: block;
     background: #5012D5;
     width: 50px;
@@ -104,7 +107,7 @@ h5{
 .class6{  
     margin-top: 230px;
     display: block;
-    color: white;
+    color: #84FF81;
     background: #5012D5;
     width: 50px;
     height: 50px;
@@ -133,4 +136,7 @@ h6{
     margin-top: 32px;
     margin-left: 52px;
     
+}
+span{
+    display: block;
 }
